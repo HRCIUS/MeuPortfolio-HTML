@@ -1,0 +1,8 @@
+li:hover{
+    background-color: rgb(88, 88, 88);
+    border-radius: 4%;
+    text-decoration: underline;
+}
+.body{
+    background-image: url('imagens/hand-painted-watercolor-background-with-sky-and-clouds-shape.jpg');
+}
